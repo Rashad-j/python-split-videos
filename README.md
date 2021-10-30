@@ -15,3 +15,8 @@ This tool was designed to help tiktok users to split tiktok videos into multiple
 - Install reuirements `pip install requirements.txt`
 - Run the code `python src\app.py`
 
+## Upcoming Features 
+
+- Using GUI to set the parameters
+- Download videos from the web
+
