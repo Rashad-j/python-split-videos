@@ -1,4 +1,4 @@
-# Tiktok Video Splitter
+# Video Splitter
 
 This tool was designed to help tiktok users to split tiktok videos into multiple ones
 
